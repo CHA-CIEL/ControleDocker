@@ -181,3 +181,23 @@
 1765449305: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
 1765449316: mosquitto version 2.0.22 terminating
 1765449316: Client mqttx_f7e6d617 closed its connection.
+1765449558: mosquitto version 2.0.22 starting
+1765449558: Config loaded from /mosquitto/config/mosquitto.conf.
+1765449558: Opening ipv4 listen socket on port 1883.
+1765449558: Opening ipv6 listen socket on port 1883.
+1765449558: Opening websockets listen socket on port 9005.
+1765449558: mosquitto version 2.0.22 running
+1765449742: mosquitto version 2.0.22 terminating
+1765449759: mosquitto version 2.0.22 starting
+1765449759: Config loaded from /mosquitto/config/mosquitto.conf.
+1765449759: Opening ipv4 listen socket on port 1883.
+1765449759: Opening ipv6 listen socket on port 1883.
+1765449759: Opening websockets listen socket on port 9005.
+1765449759: mosquitto version 2.0.22 running
+1765449811: mosquitto version 2.0.22 terminating
+1765449818: mosquitto version 2.0.22 starting
+1765449818: Config loaded from /mosquitto/config/mosquitto.conf.
+1765449818: Opening ipv4 listen socket on port 1883.
+1765449818: Opening ipv6 listen socket on port 1883.
+1765449818: Opening websockets listen socket on port 9005.
+1765449818: mosquitto version 2.0.22 running
