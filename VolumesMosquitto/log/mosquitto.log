@@ -266,3 +266,47 @@
 1765450204: Received PUBLISH from mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
 1765450204: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
 1765450204: Sending PUBLISH to auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765450246: Received PINGREQ from auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C
+1765450246: Sending PINGRESP to auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C
+1765450264: Received PINGREQ from mqttx_f7e6d617
+1765450264: Sending PINGRESP to mqttx_f7e6d617
+1765450306: Received PINGREQ from auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C
+1765450306: Sending PINGRESP to auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C
+1765450325: Received PINGREQ from mqttx_f7e6d617
+1765450325: Sending PINGRESP to mqttx_f7e6d617
+1765450366: Received PINGREQ from auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C
+1765450366: Sending PINGRESP to auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C
+1765450386: Received PINGREQ from mqttx_f7e6d617
+1765450386: Sending PINGRESP to mqttx_f7e6d617
+1765450391: Received DISCONNECT from auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C
+1765450391: Client auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C disconnected.
+1765450391: mosquitto version 2.0.22 terminating
+1765450391: Client mqttx_f7e6d617 closed its connection.
+1765450415: mosquitto version 2.0.22 starting
+1765450415: Config loaded from /mosquitto/config/mosquitto.conf.
+1765450415: Opening ipv4 listen socket on port 1883.
+1765450415: Opening ipv6 listen socket on port 1883.
+1765450415: Opening websockets listen socket on port 9005.
+1765450415: mosquitto version 2.0.22 running
+1765450417: New client connected from ::ffff:172.19.0.1:45582 as mqttx_f7e6d617 (p5, c1, k60).
+1765450417: No will message specified.
+1765450417: Sending CONNACK to mqttx_f7e6d617 (0, 0)
+1765450417: Received SUBSCRIBE from mqttx_f7e6d617
+1765450417: 	BTS/# (QoS 0)
+1765450417: mqttx_f7e6d617 0 BTS/#
+1765450417: Sending SUBACK to mqttx_f7e6d617
+1765450418: New connection from 172.19.0.5:37162 on port 1883.
+1765450418: New client connected from 172.19.0.5:37162 as auto-72E7CDF3-0B39-B331-235A-45DF0F21F49D (p2, c1, k60).
+1765450418: No will message specified.
+1765450418: Sending CONNACK to auto-72E7CDF3-0B39-B331-235A-45DF0F21F49D (0, 0)
+1765450418: Received SUBSCRIBE from auto-72E7CDF3-0B39-B331-235A-45DF0F21F49D
+1765450418: 	# (QoS 0)
+1765450418: auto-72E7CDF3-0B39-B331-235A-45DF0F21F49D 0 #
+1765450418: Sending SUBACK to auto-72E7CDF3-0B39-B331-235A-45DF0F21F49D
+1765450459: Received SUBSCRIBE from mqttx_f7e6d617
+1765450459: 	CIEL/# (QoS 0)
+1765450459: mqttx_f7e6d617 0 CIEL/#
+1765450459: Sending SUBACK to mqttx_f7e6d617
+1765450465: Received PUBLISH from mqttx_f7e6d617 (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765450465: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765450465: Sending PUBLISH to auto-72E7CDF3-0B39-B331-235A-45DF0F21F49D (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
