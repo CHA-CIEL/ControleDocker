@@ -44,3 +44,140 @@
 1765446392: Opening ipv6 listen socket on port 1883.
 1765446392: mosquitto version 2.0.22 running
 1765446408: mosquitto version 2.0.22 terminating
+1765446536: mosquitto version 2.0.22 starting
+1765446536: Config loaded from /mosquitto/config/mosquitto.conf.
+1765446536: Opening ipv4 listen socket on port 1883.
+1765446536: Opening ipv6 listen socket on port 1883.
+1765446536: Opening ipv4 listen socket on port 9005.
+1765446536: Opening ipv6 listen socket on port 9005.
+1765446536: Opening websockets listen socket on port 1883.
+1765446536: Error: Unable to create websockets listener on port 1883.
+1765446925: mosquitto version 2.0.22 starting
+1765446925: Config loaded from /mosquitto/config/mosquitto.conf.
+1765446925: Opening ipv4 listen socket on port 1883.
+1765446925: Opening ipv6 listen socket on port 1883.
+1765446925: Opening ipv4 listen socket on port 9005.
+1765446925: Opening ipv6 listen socket on port 9005.
+1765446925: Opening websockets listen socket on port 1883.
+1765446925: Error: Unable to create websockets listener on port 1883.
+1765447022: mosquitto version 2.0.22 starting
+1765447022: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447022: Opening ipv4 listen socket on port 1883.
+1765447022: Opening ipv6 listen socket on port 1883.
+1765447022: Opening ipv4 listen socket on port 9005.
+1765447022: Opening ipv6 listen socket on port 9005.
+1765447022: Opening websockets listen socket on port 1883.
+1765447022: Error: Unable to create websockets listener on port 1883.
+1765447026: mosquitto version 2.0.22 starting
+1765447026: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447026: Opening ipv4 listen socket on port 1883.
+1765447026: Opening ipv6 listen socket on port 1883.
+1765447026: Opening ipv4 listen socket on port 9005.
+1765447026: Opening ipv6 listen socket on port 9005.
+1765447026: Opening websockets listen socket on port 1883.
+1765447026: Error: Unable to create websockets listener on port 1883.
+1765447141: mosquitto version 2.0.22 starting
+1765447141: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447141: Opening ipv4 listen socket on port 1883.
+1765447141: Opening ipv6 listen socket on port 1883.
+1765447141: Opening ipv4 listen socket on port 9005.
+1765447141: Opening websockets listen socket on port 1883.
+1765447141: Error: Unable to create websockets listener on port 1883.
+1765447226: mosquitto version 2.0.22 starting
+1765447226: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447226: Opening ipv4 listen socket on port 1883.
+1765447226: Opening ipv6 listen socket on port 1883.
+1765447226: Opening ipv4 listen socket on port 9005.
+1765447226: Opening websockets listen socket on port 1883.
+1765447226: Error: Unable to create websockets listener on port 1883.
+1765447241: mosquitto version 2.0.22 starting
+1765447241: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447241: Opening ipv4 listen socket on port 1883.
+1765447241: Opening ipv6 listen socket on port 1883.
+1765447241: Opening ipv4 listen socket on port 9005.
+1765447241: Opening websockets listen socket on port 1883.
+1765447241: Error: Unable to create websockets listener on port 1883.
+1765447242: mosquitto version 2.0.22 starting
+1765447242: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447242: Opening ipv4 listen socket on port 1883.
+1765447242: Opening ipv6 listen socket on port 1883.
+1765447242: Opening ipv4 listen socket on port 9005.
+1765447242: Opening websockets listen socket on port 1883.
+1765447242: Error: Unable to create websockets listener on port 1883.
+1765447243: mosquitto version 2.0.22 starting
+1765447243: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447243: Opening ipv4 listen socket on port 1883.
+1765447243: Opening ipv6 listen socket on port 1883.
+1765447243: Opening ipv4 listen socket on port 9005.
+1765447243: Opening websockets listen socket on port 1883.
+1765447243: Error: Unable to create websockets listener on port 1883.
+1765447345: mosquitto version 2.0.22 starting
+1765447345: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447345: Opening ipv4 listen socket on port 1883.
+1765447345: Opening ipv6 listen socket on port 1883.
+1765447345: Opening ipv4 listen socket on port 9005.
+1765447345: Opening websockets listen socket on port 1883.
+1765447345: Error: Unable to create websockets listener on port 1883.
+1765447610: mosquitto version 2.0.22 starting
+1765447610: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447610: Opening ipv4 listen socket on port 1883.
+1765447610: Opening ipv6 listen socket on port 1883.
+1765447610: Opening ipv4 listen socket on port 9005.
+1765447610: Opening websockets listen socket on port 1883.
+1765447610: Error: Unable to create websockets listener on port 1883.
+1765447629: mosquitto version 2.0.22 starting
+1765447629: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447629: Opening ipv4 listen socket on port 1883.
+1765447629: Opening ipv6 listen socket on port 1883.
+1765447629: Opening ipv4 listen socket on port 9005.
+1765447629: Opening websockets listen socket on port 1883.
+1765447629: Error: Unable to create websockets listener on port 1883.
+1765447681: mosquitto version 2.0.22 starting
+1765447681: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447681: Opening ipv4 listen socket on port 1883.
+1765447681: Opening ipv6 listen socket on port 1883.
+1765447681: mosquitto version 2.0.22 running
+1765449021: mosquitto version 2.0.22 terminating
+1765449025: mosquitto version 2.0.22 starting
+1765449025: Config loaded from /mosquitto/config/mosquitto.conf.
+1765449025: Opening ipv4 listen socket on port 1883.
+1765449025: Opening ipv6 listen socket on port 1883.
+1765449025: Opening websockets listen socket on port 9005.
+1765449025: mosquitto version 2.0.22 running
+1765449029: New client connected from ::ffff:172.19.0.1:36318 as mqttx_f7e6d617 (p5, c1, k60).
+1765449029: No will message specified.
+1765449029: Sending CONNACK to mqttx_f7e6d617 (0, 0)
+1765449089: Received PINGREQ from mqttx_f7e6d617
+1765449089: Sending PINGRESP to mqttx_f7e6d617
+1765449090: Received SUBSCRIBE from mqttx_f7e6d617
+1765449090: 	BTS/# (QoS 0)
+1765449090: mqttx_f7e6d617 0 BTS/#
+1765449090: Sending SUBACK to mqttx_f7e6d617
+1765449150: Received PINGREQ from mqttx_f7e6d617
+1765449150: Sending PINGRESP to mqttx_f7e6d617
+1765449156: Received UNSUBSCRIBE from mqttx_f7e6d617
+1765449156: 	BTS/#
+1765449156: mqttx_f7e6d617 BTS/#
+1765449156: Sending UNSUBACK to mqttx_f7e6d617
+1765449162: Received SUBSCRIBE from mqttx_f7e6d617
+1765449162: 	BTS/# (QoS 0)
+1765449162: mqttx_f7e6d617 0 BTS/#
+1765449162: Sending SUBACK to mqttx_f7e6d617
+1765449222: Received PINGREQ from mqttx_f7e6d617
+1765449222: Sending PINGRESP to mqttx_f7e6d617
+1765449251: Received UNSUBSCRIBE from mqttx_f7e6d617
+1765449251: 	BTS/#
+1765449251: mqttx_f7e6d617 BTS/#
+1765449251: Sending UNSUBACK to mqttx_f7e6d617
+1765449251: Received SUBSCRIBE from mqttx_f7e6d617
+1765449251: 	BTS/# (QoS 0)
+1765449251: mqttx_f7e6d617 0 BTS/#
+1765449251: Sending SUBACK to mqttx_f7e6d617
+1765449273: Received PUBLISH from mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (18 bytes))
+1765449273: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (18 bytes))
+1765449296: Received PUBLISH from mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765449296: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765449305: Received PUBLISH from mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765449305: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765449316: mosquitto version 2.0.22 terminating
+1765449316: Client mqttx_f7e6d617 closed its connection.
