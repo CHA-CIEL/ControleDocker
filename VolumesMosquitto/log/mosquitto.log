@@ -201,3 +201,68 @@
 1765449818: Opening ipv6 listen socket on port 1883.
 1765449818: Opening websockets listen socket on port 9005.
 1765449818: mosquitto version 2.0.22 running
+1765449997: New client connected from ::ffff:172.19.0.1:47322 as mqttx_f7e6d617 (p5, c1, k60).
+1765449997: No will message specified.
+1765449997: Sending CONNACK to mqttx_f7e6d617 (0, 0)
+1765449997: Received SUBSCRIBE from mqttx_f7e6d617
+1765449997: 	BTS/# (QoS 0)
+1765449997: mqttx_f7e6d617 0 BTS/#
+1765449997: Sending SUBACK to mqttx_f7e6d617
+1765449999: Received PUBLISH from mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765449999: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765450017: Received PUBLISH from mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765450017: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765450031: New connection from ::1:58854 on port 1883.
+1765450031: New client connected from ::1:58854 as auto-2DDB98BB-DC68-9C14-0AE0-885A1D7B2DDE (p2, c1, k60).
+1765450031: No will message specified.
+1765450031: Sending CONNACK to auto-2DDB98BB-DC68-9C14-0AE0-885A1D7B2DDE (0, 0)
+1765450031: Received SUBSCRIBE from auto-2DDB98BB-DC68-9C14-0AE0-885A1D7B2DDE
+1765450031: 	# (QoS 0)
+1765450031: auto-2DDB98BB-DC68-9C14-0AE0-885A1D7B2DDE 0 #
+1765450031: Sending SUBACK to auto-2DDB98BB-DC68-9C14-0AE0-885A1D7B2DDE
+1765450035: Received PUBLISH from mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765450035: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765450035: Sending PUBLISH to auto-2DDB98BB-DC68-9C14-0AE0-885A1D7B2DDE (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765450048: Received DISCONNECT from auto-2DDB98BB-DC68-9C14-0AE0-885A1D7B2DDE
+1765450048: Client auto-2DDB98BB-DC68-9C14-0AE0-885A1D7B2DDE disconnected.
+1765450056: New connection from ::1:55444 on port 1883.
+1765450056: New client connected from ::1:55444 as auto-36EBE451-4A13-A01F-2104-E7B0DF1D7FFF (p2, c1, k60).
+1765450056: No will message specified.
+1765450056: Sending CONNACK to auto-36EBE451-4A13-A01F-2104-E7B0DF1D7FFF (0, 0)
+1765450056: Received SUBSCRIBE from auto-36EBE451-4A13-A01F-2104-E7B0DF1D7FFF
+1765450056: 	# (QoS 0)
+1765450056: auto-36EBE451-4A13-A01F-2104-E7B0DF1D7FFF 0 #
+1765450056: Sending SUBACK to auto-36EBE451-4A13-A01F-2104-E7B0DF1D7FFF
+1765450067: Received PUBLISH from mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765450067: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765450067: Sending PUBLISH to auto-36EBE451-4A13-A01F-2104-E7B0DF1D7FFF (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765450116: Received PINGREQ from auto-36EBE451-4A13-A01F-2104-E7B0DF1D7FFF
+1765450116: Sending PINGRESP to auto-36EBE451-4A13-A01F-2104-E7B0DF1D7FFF
+1765450128: Received PINGREQ from mqttx_f7e6d617
+1765450128: Sending PINGRESP to mqttx_f7e6d617
+1765450137: mosquitto version 2.0.22 terminating
+1765450137: Client mqttx_f7e6d617 closed its connection.
+1765450183: mosquitto version 2.0.22 starting
+1765450183: Config loaded from /mosquitto/config/mosquitto.conf.
+1765450183: Opening ipv4 listen socket on port 1883.
+1765450183: Opening ipv6 listen socket on port 1883.
+1765450183: Opening websockets listen socket on port 9005.
+1765450183: mosquitto version 2.0.22 running
+1765450184: New client connected from ::ffff:172.19.0.1:42088 as mqttx_f7e6d617 (p5, c1, k60).
+1765450184: No will message specified.
+1765450184: Sending CONNACK to mqttx_f7e6d617 (0, 0)
+1765450184: Received SUBSCRIBE from mqttx_f7e6d617
+1765450184: 	BTS/# (QoS 0)
+1765450184: mqttx_f7e6d617 0 BTS/#
+1765450184: Sending SUBACK to mqttx_f7e6d617
+1765450185: New connection from 172.19.0.4:55630 on port 1883.
+1765450185: New client connected from 172.19.0.4:55630 as auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C (p2, c1, k60).
+1765450185: No will message specified.
+1765450185: Sending CONNACK to auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C (0, 0)
+1765450185: Received SUBSCRIBE from auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C
+1765450185: 	# (QoS 0)
+1765450185: auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C 0 #
+1765450185: Sending SUBACK to auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C
+1765450204: Received PUBLISH from mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765450204: Sending PUBLISH to mqttx_f7e6d617 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765450204: Sending PUBLISH to auto-E1313A94-7FFF-57F7-53D2-D3109233FB6C (d0, q0, r0, m0, 'BTS', ... (6 bytes))
